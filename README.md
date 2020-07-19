@@ -4,6 +4,6 @@
 对应的比赛有若干的思路
 1. 孪生BiLSTM+similarity
 2. ESIM
-3. Bert in classification
+3. Bert in classification 
 最后提交版本为ESIM，本地测试集正确率85%，线上提交77%
 本仓库保存了比赛使用的所有代码的实现
